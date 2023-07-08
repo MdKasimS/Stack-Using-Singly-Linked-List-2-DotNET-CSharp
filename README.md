@@ -14,4 +14,4 @@ This repo can be cloned and run using "dotnet run" command on CMD.
 
 By:-
  - Mahamadkasim Sache
- - https://www.linkedin.com/in/mahamadkasim-sache
+ - [LinkedIn](https://www.linkedin.com/in/mahamadkasim-sache)
