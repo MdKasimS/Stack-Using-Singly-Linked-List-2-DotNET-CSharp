@@ -49,7 +49,7 @@ internal class Program
                     Console.Clear();
                     Console.WriteLine($"---[{MenuItems[1]}]---");
 
-                    Console.WriteLine($"Data popped : {stack.ShowTop()}");
+                    Console.WriteLine($"Data popped : {stack.Peek()}");
                     stack.Pop();
 
                     Console.WriteLine("Press any key to continue...");
@@ -61,7 +61,7 @@ internal class Program
                     Console.Clear();
                     Console.WriteLine($"---[{MenuItems[2]}]---");
 
-                    Console.WriteLine($"Stack Top Data Is : {stack.ShowTop()}");
+                    Console.WriteLine($"Stack Top Data Is : {stack.Peek()}");
 
                     Console.WriteLine("Press any key to continue...");
                     Console.ReadKey();

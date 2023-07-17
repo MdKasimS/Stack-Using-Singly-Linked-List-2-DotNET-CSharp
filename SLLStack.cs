@@ -52,7 +52,7 @@ namespace DSA
         {
             return SinglyLinkedList.Count;
         }
-        public string ShowTop()
+        public string Peek()
         {
             if (SinglyLinkedList.Count > 0)
                 return stack.Temp.Data.ToString();
